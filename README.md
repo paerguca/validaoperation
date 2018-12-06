@@ -1,5 +1,5 @@
 # validation
-Webapp form validation transfer money.
+Webapp form to validate transfer money.
 
 ## Project setup
 ```
