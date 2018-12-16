@@ -118,7 +118,7 @@ export default {
     },
     post: function(){
       
-      this.$http.post('http://localhost:3000/operaciones', {
+      this.$http.post('operaciones', {
         banco: this.operacion.banco,
         moneda: this.operacion.moneda,
         titular: this.operacion.titular,
